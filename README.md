@@ -1,4 +1,4 @@
-# Dr.Missense Project
+# Defeating Dr.Missense: An Amino Acids Quiz Project
 
 In human protein synthesis, translation is a fundamental step. After a DNA helix has been transcribed into an RNA strand, a messenger RNA (mRNA) strand translates the RNA regions to produce a series of amino acids, making a functional protein. While mRNA is a fantastic translator of RNA, it can only code for amino acids–it cannot tell if those amino acids will potentially wreck havoc and distort the protein shape and function. Substitution mutations can often replace a base with another base, creating missense phenotypes.
 
